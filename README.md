@@ -72,13 +72,15 @@ Data quality issues were addressed during the Excel cleaning stage before analys
 * Segmented customers based on purchasing behavior and spending patterns
 * Identified **highest spending customer segments** contributing disproportionately to revenue
 
-**Example Insight:**
-A distinct segment was identified with significantly higher spending in specific categories, indicating strong purchase propensity during Diwali.
+![Dashboard Preview](https://github.com/Danu-12/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Analysis%20viz/Total%20Count%20of%20Orders%20based%20on%20Gender%20and%20Marital%20Status.png)
+
 
 ### Revenue & Product Category Insights
 
 * Analyzed revenue contribution by product category
 * Highlighted categories facing **unexpected stock-outs** and **overstocking risks**
+
+![Dashboard Preview](https://github.com/Danu-12/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Analysis%20viz/Sales%20by%20Product%20Category.png)
 
 ### Demand & Inventory Planning
 
@@ -110,7 +112,7 @@ Through this project, I strengthened my skills in:
 
 ## 🖼️ Analysis Preview
 
-*(Add visual outputs or notebook screenshots here)*
+![Dashboard Preview](https://github.com/Danu-12/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Analysis%20viz/Total%20Orders%20By%20Zone.png) ![Dashboard Preview](https://github.com/Danu-12/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Analysis%20viz/orders%20by%20state.png)
 
 ---
 
